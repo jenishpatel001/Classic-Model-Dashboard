@@ -1,26 +1,8 @@
 # Classic-Model-Dashboard
 Classic Model Dashboard
-This repository contains the "Classic Model Dashboard," a data visualization project developed as part of my learning journey in data analysis. The dashboard, accessible here, showcases my ability to transform raw data into actionable insights using modern tools and techniques.
-Project Overview
-The dashboard was created using skills acquired from the "Data Analysis | SQL, Tableau, Power BI & Excel | Real Projects" course on Udemy, completed on September 6, 2025. Over 12.5 hours of intensive training under instructor Graeme Gordon, I mastered SQL for database querying, Tableau and Power BI for interactive visualizations, and Excel for data manipulation. This project reflects real-world applications, including data cleaning, trend analysis, and the design of an intuitive dashboard to support business decision-making.
-Skills Demonstrated
 
-SQL: Efficient querying and data extraction from databases.
-Tableau/Power BI: Building interactive and dynamic visualizations.
-Excel: Advanced data processing and analysis techniques.
-Data Visualization: Translating complex datasets into clear, actionable insights.
+This repository hosts the "Classic Model Dashboard," a comprehensive data visualization project designed to provide actionable insights from the Classic Models dataset. The dashboard, accessible [here](https://github.com/jenishpatel001/Classic-Model-Dashboard/blob/main/Classic%20data.PNG), was crafted using skills honed through the "Data Analysis | SQL, Tableau, Power BI & Excel | Real Projects" course on Udemy, completed on September 6, 2025. It features interactive visualizations and key performance indicators (KPIs) such as sales trends, product performance, and customer segmentation, built using Tableau and Power BI, with data processed and cleaned using SQL and Excel.
 
-Certification
-I earned my Certificate of Completion for the Udemy course, with the following details:
+The development process involved extracting and querying data from the Classic Models database with SQL, transforming it into a structured format, and creating a user-friendly interface to display the results. The dashboard highlights my ability to handle real-world data challenges, including data integration, visualization design, and performance optimization. Created as part of a 12.5-hour intensive training led by instructor Graeme Gordon, this project serves as a practical demonstration of my data analysis capabilities.
 
-Certificate Number: UC-22c4cfe3-5c67-4b65-9315-eaf020dd35d6
-Certificate URL: ude.my/UC-22c4cfe3-5c67-4b65-9315-eaf020dd35d6
-Reference Number: 0004
-Instructor: Graeme Gordon
-Date: September 6, 2025
-Duration: 12.5 total hours
-
-Future Improvements
-I plan to enhance this dashboard by integrating more advanced analytics, optimizing performance, and potentially adding real-time data updates. Contributions, feedback, and suggestions are welcome!
-Contact
-Feel free to reach out via my GitHub profile or connect with me on LinkedIn to discuss data projects, collaborations, or my learning journey.
+Future enhancements may include adding more advanced analytics, incorporating real-time data feeds, and refining the user interface based on feedback. Feel free to explore the dashboard, suggest improvements, or collaborate on expanding its features!
